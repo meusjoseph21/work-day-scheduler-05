@@ -1,49 +1,11 @@
-# work-day-scheduler-05
+Homework 05: The work day scheduler
 
-# 05 Third-Party APIs: Work Day Scheduler
+I made the work day scheduler from 8 am to 5 pm based on the schedule I have been loosely keeping with this course. I figured it could be good practice for myself to have something like that and may try to use it as things get more hectic in my day to day with coding. The schedule stays up to date with the current time, day of the week, and day of the month. The colors on the schedule itself correspond with past time(grey) current time (red) and time to come(green). 
 
-Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+I incorporated both dayjs and moment into my code in order to practice the methods of both, although they are some what similar. The use of local storage is still somewhat foreign to me but after moving through the previous assignment and now this one I am getting a little bit more comfortable with the usage. That part was about the only challening thing in the assignment for me.
 
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+With the help of my classmates I was able to complete this assignment and I am thankful for that collaboration effort. 
 
-## User Story
+github repo: https://github.com/meusjoseph21/work-day-scheduler-05
 
-```
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
-```
-
-## Acceptance Criteria
-
-```
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
-```
-
-
-The following animation demonstrates the application functionality:
-
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+github live page:
