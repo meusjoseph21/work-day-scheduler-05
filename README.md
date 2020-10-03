@@ -9,3 +9,5 @@ With the help of my classmates I was able to complete this assignment and I am t
 github repo: https://github.com/meusjoseph21/work-day-scheduler-05
 
 github live page: https://meusjoseph21.github.io/work-day-scheduler-05/
+
+<img src = "./Assets/screenshot.png">
